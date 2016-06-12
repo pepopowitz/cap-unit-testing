@@ -56,8 +56,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="1_DependentTests\AddTests_Independent.cs" />
-    <Compile Include="1_DependentTests\AddTests_Dependent.cs" />
+    <Compile Include="1_DependentTests\AddTests_2_Independent.cs" />
+    <Compile Include="1_DependentTests\AddTests_1_Dependent.cs" />
+    <Compile Include="2_RepeatableTests\DayTests_1_Unrepeatable.cs" />
+    <Compile Include="2_RepeatableTests\DayTests_2_Repeatable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

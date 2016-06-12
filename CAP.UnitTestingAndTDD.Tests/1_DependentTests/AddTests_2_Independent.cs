@@ -5,7 +5,7 @@ using NUnit.Framework;
 namespace CAP.UnitTestingAndTDD.Tests._1_DependentTests
 {
     [TestFixture]
-    public class AddTests_Independent
+    public class AddTests_2_Independent
     {
 
         [Test]
