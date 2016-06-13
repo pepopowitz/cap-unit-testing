@@ -123,11 +123,5 @@ imagecache/
 node_modules/
 coverage/
 bower_components/
-MET.OpenLink/MET.OpenLink.ApplicationServices/ToolSearch/TooSearchRestRequestBuilder.cs
-MET.OpenLink/MET.OpenLink.Web/Content/Less/print.milwaukeetool.css
-MET.OpenLink/MET.OpenLink.Web/Content/bootstrap/custom/openlink-bootstrap.css
-MET.OpenLink/MET.OpenLink.Web/Content/bootstrap/custom/openlink-styles-mx.css
-MET.OpenLink/MET.OpenLink.Web/Content/bootstrap/custom/pages/_pdfreport.css
-MET.OpenLink/MET.OpenLink.Web/Content/bootstrap/eonasdan-bootstrap-datetimepicker/bootstrap-datetimepicker.css
-MET.OpenLink/MET.OpenLink.Web/Content/shell/Shell.css
-MET.OpenLink/MET.OpenLink.Web/Content/toastr/toastr.css
+
+flickr.txt
