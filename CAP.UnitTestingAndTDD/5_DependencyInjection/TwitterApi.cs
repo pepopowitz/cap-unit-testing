@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -7,8 +8,7 @@ namespace CAP.UnitTestingAndTDD._5_DependencyInjection
     {
         public IEnumerable<Tweet> GetTweets(string userName)
         {
-            //Pretend that this calls out to the twitter api
-            return Enumerable.Empty<Tweet>();
+            throw new NotImplementedException("This exception means you've tried to call out to Twitter!");
         }
     }
 }
