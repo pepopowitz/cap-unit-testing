@@ -61,6 +61,9 @@
     <Compile Include="2_RepeatableTests\DayTests_1_Unrepeatable.cs" />
     <Compile Include="2_RepeatableTests\DayTests_2_Repeatable.cs" />
     <Compile Include="3_LetsUnitTest\TellFortuneTests.cs" />
+    <Compile Include="4_Exceptions\FrameworkIndependent.cs" />
+    <Compile Include="4_Exceptions\MSTest.cs" />
+    <Compile Include="4_Exceptions\NUnit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
