@@ -60,6 +60,7 @@
     <Compile Include="1_DependentTests\AddTests_1_Dependent.cs" />
     <Compile Include="2_RepeatableTests\DayTests_1_Unrepeatable.cs" />
     <Compile Include="2_RepeatableTests\DayTests_2_Repeatable.cs" />
+    <Compile Include="3_LetsUnitTest\TellFortuneTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -71,6 +72,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
