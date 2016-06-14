@@ -71,6 +71,7 @@
     <Compile Include="6_IntegrationTests\IFlickrPhotoMapper.cs" />
     <Compile Include="6_IntegrationTests\Photo.cs" />
     <Compile Include="6_IntegrationTests\Api\ApiPhoto.cs" />
+    <Compile Include="7_FizzBuzz\FizzBuzzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
