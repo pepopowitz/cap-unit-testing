@@ -30,7 +30,7 @@ namespace CAP.UnitTestingAndTDD._6_IntegrationTests.Api
             {
                 if (result.Data != null)
                 {
-                    return result.Data?.Photos?.Photo;
+                    return result.Data.Photos.Photo;
                 }
             }
 

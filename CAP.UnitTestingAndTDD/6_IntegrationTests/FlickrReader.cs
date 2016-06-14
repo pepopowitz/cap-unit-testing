@@ -22,7 +22,7 @@ namespace CAP.UnitTestingAndTDD._6_IntegrationTests
         {
             if (string.IsNullOrWhiteSpace(searchTerm))
             {
-                throw new ArgumentNullException(nameof(searchTerm));
+                throw new ArgumentNullException("searchTerm");
             }
 
             var apiResults = _flickrClient.Search(searchTerm);

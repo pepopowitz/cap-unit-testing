@@ -12,7 +12,7 @@ namespace CAP.UnitTestingAndTDD._4_Exceptions
         {
             if (yourName == null)
             {
-                throw new ArgumentNullException(nameof(yourName));
+                throw new ArgumentNullException("yourName");
             }
 
             return "red";
