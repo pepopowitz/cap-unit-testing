@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAP.UnitTestingAndTDD", "CAP.UnitTestingAndTDD.csproj", "{7AFDF9A5-65B7-4F4A-B737-64978F0F0AF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAP.UnitTestingAndTDD", ".\CAP.UnitTestingAndTDD\CAP.UnitTestingAndTDD.csproj", "{7AFDF9A5-65B7-4F4A-B737-64978F0F0AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAP.UnitTestingAndTDD.Tests", "..\CAP.UnitTestingAndTDD.Tests\CAP.UnitTestingAndTDD.Tests.csproj", "{DE2770A5-253E-4678-A623-1E7DB3E60045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAP.UnitTestingAndTDD.Tests", ".\CAP.UnitTestingAndTDD.Tests\CAP.UnitTestingAndTDD.Tests.csproj", "{DE2770A5-253E-4678-A623-1E7DB3E60045}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
