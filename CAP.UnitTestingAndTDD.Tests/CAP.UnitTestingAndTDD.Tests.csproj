@@ -74,6 +74,7 @@
     <Compile Include="4_Exceptions\NUnit.cs" />
     <Compile Include="5_DependencyInjection\WithDI\ReadTweetsTest.cs" />
     <Compile Include="5_DependencyInjection\WithoutDI\ReadTweetsTests.cs" />
+    <Compile Include="6_IntegrationTests\SearchTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -83,6 +84,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
