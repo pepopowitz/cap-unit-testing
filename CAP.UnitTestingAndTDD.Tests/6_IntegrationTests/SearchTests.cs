@@ -29,8 +29,8 @@ namespace CAP.UnitTestingAndTDD.Tests._6_IntegrationTests
 
             Assert.That(result, Is.Not.Null);
             Assert.That(result.Count(), Is.EqualTo(10));
-            Assert.That(result.First().Url, Is.EqualTo("https://farm8.staticflickr.com/7265/26955072963_a82f2f87cc.jpg"));
-            Assert.That(result.First().Title, Is.EqualTo("Mountain Biking in Moab, UT"));
+            Assert.That(result.First().Url, Is.EqualTo("https://farm5.staticflickr.com/4200/34284654793_3aab65c2db.jpg"));
+            Assert.That(result.First().Title, Is.EqualTo("IMG_2861_2_3_"));
         }
     }
 }
