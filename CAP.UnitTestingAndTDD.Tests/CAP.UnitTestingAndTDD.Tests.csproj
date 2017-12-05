@@ -85,11 +85,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="7_FizzBuzz\README.md" />
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="8_StringCalculator\kata.txt" />
+    <None Include="8_StringCalculator\README.md" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
