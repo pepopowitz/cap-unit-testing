@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CAP.UnitTestingAndTDD._3_LetsUnitTest
+namespace CAP.UnitTestingAndTDD._1_LetsUnitTest
 {
     public class FortuneTeller
     {

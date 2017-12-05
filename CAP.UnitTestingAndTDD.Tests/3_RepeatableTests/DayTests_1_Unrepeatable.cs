@@ -1,19 +1,18 @@
 ﻿using System;
-using CAP.UnitTestingAndTDD._1_DependentTests;
-using CAP.UnitTestingAndTDD._2_RepeatableTests;
+using CAP.UnitTestingAndTDD._3_RepeatableTests;
 using NUnit.Framework;
 
-namespace CAP.UnitTestingAndTDD.Tests._2_RepeatableTests
+namespace CAP.UnitTestingAndTDD.Tests._3_RepeatableTests
 {
     [TestFixture]
-    public class DayTests_2_Repeatable
+    public class DayTests_1_Unrepeatable
     {
         private Calendar _calendar = new Calendar();
 
         [Test]
         public void GivenDate_ReturnsDay()
         {
-            var dateTime = new DateTime(2016, 01, 04);
+            var dateTime = DateTime.Today;
 
             var result = _calendar.Day(dateTime);
 

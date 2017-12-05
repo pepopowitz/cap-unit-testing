@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CAP.UnitTestingAndTDD._1_DependentTests
+namespace CAP.UnitTestingAndTDD._2_DependentTests
 {
     public class Calculator
     {

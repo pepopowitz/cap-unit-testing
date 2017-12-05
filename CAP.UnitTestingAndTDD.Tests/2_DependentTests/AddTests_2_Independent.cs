@@ -1,8 +1,8 @@
 ﻿using System;
-using CAP.UnitTestingAndTDD._1_DependentTests;
+using CAP.UnitTestingAndTDD._2_DependentTests;
 using NUnit.Framework;
 
-namespace CAP.UnitTestingAndTDD.Tests._1_DependentTests
+namespace CAP.UnitTestingAndTDD.Tests._2_DependentTests
 {
     [TestFixture]
     public class AddTests_2_Independent

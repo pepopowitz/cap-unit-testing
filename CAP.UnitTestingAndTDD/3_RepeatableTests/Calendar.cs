@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CAP.UnitTestingAndTDD._2_RepeatableTests
+namespace CAP.UnitTestingAndTDD._3_RepeatableTests
 {
     public class Calendar
     {

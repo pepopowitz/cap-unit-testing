@@ -49,9 +49,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_DependentTests\Calculator.cs" />
-    <Compile Include="2_RepeatableTests\Calendar.cs" />
-    <Compile Include="3_LetsUnitTest\FortuneTeller.cs" />
+    <Compile Include="2_DependentTests\Calculator.cs" />
+    <Compile Include="3_RepeatableTests\Calendar.cs" />
+    <Compile Include="1_LetsUnitTest\FortuneTeller.cs" />
     <Compile Include="4_Exceptions\ColorPicker.cs" />
     <Compile Include="5_DependencyInjection\ITwitterApi.cs" />
     <Compile Include="5_DependencyInjection\Tweet.cs" />

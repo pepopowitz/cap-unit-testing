@@ -1,8 +1,8 @@
 ﻿using System;
-using CAP.UnitTestingAndTDD._3_LetsUnitTest;
+using CAP.UnitTestingAndTDD._1_LetsUnitTest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CAP.UnitTestingAndTDD.Tests._3_LetsUnitTest
+namespace CAP.UnitTestingAndTDD.Tests._1_LetsUnitTest
 {
     [TestClass]
     public class TellFortuneTests
